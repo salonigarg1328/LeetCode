@@ -75,13 +75,7 @@ This repository is a reflection of my:
 
 ---
 
-## 📊 Progress Tracker (Optional – you can update)
 
-```id="o4yhj1"
-Total Problems Solved: XX
-Easy: XX
-Medium: XX
-Hard: XX
 ```
 
 ---
