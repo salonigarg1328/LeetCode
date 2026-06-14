@@ -1,0 +1,16 @@
+"cba"
+1
+"baaca"
+3
+"nhtq"
+1
+"aaaaaaaaaaaaaaaaaaa"
+5
+"abcabcabcabcabcabcab"
+1
+"abcdefghijklmnopqrstuvwxyzzywvutsrqponmlkjihgfedcba"
+26
+"abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+1
+"xitavoyjqiupzadbdyymyvuteolyeerecnuptghlzsynozeuuvteryojyokpufanyrqqmtgxhyycltlnusyeyyqygwupcaagtkuq"
+1
